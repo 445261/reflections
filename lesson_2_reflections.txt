@@ -1,0 +1,8 @@
+What happens when you intialize a repository? Why do you need to do it?
+
+the dir you are in will be turned into a repository, new hidden folder with git metadata created.  The repository needs to be created in order to add commits
+
+
+How is the staging area different from the working directory and the repositoy? What value do you think it offers?
+
+staging area is a temporary status for files before being turned into commits.  you can decide what files need to be included in a commit without it officially be recorded.
