@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all your work local?
+you might want to create a remote repository when you have a feature done or just want to back up your code (if the feature is unfinished maybe on a different branch)
